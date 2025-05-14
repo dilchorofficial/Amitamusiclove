@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹Jani ꭙ 𝐌ᴜꜱɪᴄ™ ](https://t.me/Jani_Music_Robot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ᴀᴍɪᴛᴀ ᴍᴜsɪᴄ ](https://t.me/Amitamusicbot)**
 
 
 
