@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/rambahi/Jani-Music-Repo",
+    "https://github.com/dilchorofficial/Amitamusiclove",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Pintu_Chat")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jani_Pintu_Chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_CHOR")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_CHOR")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -72,7 +72,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 
-# Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
+# Get your pyrogram v2 session from @Amitamusicbot on Telegram
 STRING1 = getenv("STRING_SESSION",  None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
@@ -89,10 +89,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/galw7q.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/amrgab.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/galw7q.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/amrgab.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/galw7q.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/galw7q.jpg"
